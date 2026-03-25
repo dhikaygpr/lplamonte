@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import react from '@vitejs/plugin-react' // atau plugin lain jika bukan react
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: '/lplamonte/', // Nama repo Anda harus ada di sini
 })
