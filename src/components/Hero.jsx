@@ -28,7 +28,7 @@ export default function Hero() {
               {[
                 { num: '10.000+', label: 'Mitra Aktif' },
                 { num: '34', label: 'Provinsi' },
-                { num: '5 Tahun', label: 'Pengalaman' },
+                { num: '15 Tahun', label: 'Pengalaman' },
               ].map((s) => (
                 <div key={s.label} className="text-center bg-gray-50 rounded-2xl py-4">
                   <div className="font-black text-2xl text-lamonte-green stat-number">{s.num}</div>
