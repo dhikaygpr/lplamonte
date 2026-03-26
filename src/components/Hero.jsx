@@ -50,11 +50,6 @@ export default function Hero() {
               </a>
             </div>
             <div className="reveal delay-500 flex items-center gap-3 mt-8">
-              <div className="flex -space-x-2">
-                {['47','32','10','25'].map((n, i) => (
-                  <img key={i} src={`https://i.pravatar.cc/60?img=${n}`} alt="mitra"
-                    className="w-9 h-9 rounded-full border-2 border-white object-cover shadow-sm"
-                  />
                 ))}
               </div>
             </div>
