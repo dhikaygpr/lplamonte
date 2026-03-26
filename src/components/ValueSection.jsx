@@ -56,7 +56,7 @@ const values = [
       </svg>
     ),
     title: 'Sistem Marketing Otomatis',
-    desc: 'WhatsApp automation, katalog digital, kalkulator harga — semua tools tersedia untuk skala bisnis.',
+    desc: 'WhatsApp automation, katalog digital, kalkulator harga, semua tools tersedia untuk skala bisnis.',
     highlight: 'Tools lengkap',
   },
 ]
@@ -75,7 +75,7 @@ export default function ValueSection() {
             <span className="text-gradient">Ini Ekosistem Bisnis.</span>
           </h2>
           <p className="reveal delay-200 text-gray-500 text-lg max-w-2xl mx-auto">
-            Lamonte hadir dengan sistem lengkap — bukan hanya produk, tapi seluruh mesin bisnis
+            Lamonte hadir dengan sistem lengkap, bukan hanya produk, tapi seluruh mesin bisnis
             yang siap kamu jalankan dari hari pertama.
           </p>
         </div>
@@ -109,7 +109,7 @@ export default function ValueSection() {
             "Kamu fokus jualan, tim kami yang backup."
           </h3>
           <p className="text-white/80 text-base max-w-xl mx-auto">
-            Dari sistem stok hingga konten marketing — semua sudah disiapkan agar kamu bisa langsung
+            Dari sistem stok hingga konten marketing, semua sudah disiapkan agar kamu bisa langsung
             berjualan sejak hari pertama.
           </p>
         </div>
