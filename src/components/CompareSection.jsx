@@ -19,7 +19,7 @@ const compareItems = [
   },
   {
     aspect: 'Wilayah Jualan',
-    withoutLamonte: 'Bebas — tapi bersaing ketat',
+    withoutLamonte: 'Bebas, tapi bersaing ketat',
     withLamonte: 'Hak eksklusif per wilayah',
     icon: '🗺️',
   },
@@ -43,8 +43,8 @@ const compareItems = [
   },
   {
     aspect: 'Risiko',
-    withoutLamonte: 'Tinggi — produk bisa menumpuk',
-    withLamonte: 'Rendah — stok terkelola',
+    withoutLamonte: 'Tinggi, produk bisa menumpuk',
+    withLamonte: 'Rendah, stok terkelola',
     icon: '🛡️',
   },
 ]
@@ -97,7 +97,7 @@ export default function CompareSection() {
             <span className="text-gradient">Mitra Lamonte</span>
           </h2>
           <p className="reveal delay-200 text-gray-500 text-lg max-w-xl mx-auto">
-            Lihat perbedaannya — dan pilih yang lebih masuk akal.
+            Lihat perbedaannya dan pilih yang lebih masuk akal.
           </p>
         </div>
 
