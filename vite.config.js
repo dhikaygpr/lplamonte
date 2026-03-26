@@ -3,5 +3,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/lplamonte/', // PASTIKAN BARIS INI ADA DAN BENAR
+  // Pastikan base diawali dan diakhiri dengan slash
+  base: '/lplamonte/', 
 })
