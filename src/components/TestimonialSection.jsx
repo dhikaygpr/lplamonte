@@ -5,7 +5,7 @@ const testimonials = [
     avatar: 'SR',
     color: 'bg-emerald-100 text-emerald-700',
     content:
-      'Awalnya ragu karena pernah rugi bisnis baju lain. Tapi Lamonte beda — kontennya sudah tersedia, mandatnya jelas, dan omzetku sekarang 28 juta sebulan. Nggak nyangka bisa secepat ini.',
+      'Awalnya ragu karena pernah rugi bisnis baju lain. Tapi Lamonte beda, kontennya sudah tersedia, mandatnya jelas, dan omzetku sekarang 28 juta sebulan. Nggak nyangka bisa secepat ini.',
     income: 'Rp 28 Jt/bln',
     duration: '8 bulan bergabung',
     stars: 5,
@@ -16,7 +16,7 @@ const testimonials = [
     avatar: 'BS',
     color: 'bg-blue-100 text-blue-700',
     content:
-      'Dari reseller biasa sampai sekarang punya Mini HQ dengan 40+ sub-mitra di Jawa Barat. Sistemnya benar-benar solid. Tim support Lamonte selalu ada kalau ada kendala.',
+      'Dari reseller biasa sampai sekarang punya Mini HQ dengan 40+ sub mitra di Jawa Barat. Sistemnya benar-benar solid. Tim support Lamonte selalu ada kalau ada kendala.',
     income: 'Rp 45 Jt/bln',
     duration: '1.5 tahun bergabung',
     stars: 5,
@@ -60,7 +60,7 @@ const testimonials = [
     avatar: 'RW',
     color: 'bg-teal-100 text-teal-700',
     content:
-      'WhatsApp automation-nya luar biasa — broadcast ke ribuan kontak dalam sekali klik. Orderan terus masuk bahkan saat saya tidur. Ini namanya passive income yang sesungguhnya.',
+      'WhatsApp automation nya luar biasa, broadcast ke ribuan kontak dalam sekali klik. Orderan terus masuk bahkan saat saya tidur. Ini namanya passive income yang sesungguhnya.',
     income: 'Rp 19 Jt/bln',
     duration: '5 bulan bergabung',
     stars: 5,
