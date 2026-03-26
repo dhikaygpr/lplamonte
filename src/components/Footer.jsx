@@ -14,7 +14,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-white/50 text-sm leading-relaxed max-w-xs">
-              PT Lamonte Mode Internasional — ekosistem bisnis fashion anak Muslim terbesar di Indonesia.
+              PT Lamonte Mode Internasional ekosistem bisnis fashion anak terbesar di Indonesia.
               Lengkap. Berkualitas. Terpercaya.
             </p>
             <div className="flex gap-3 mt-5">

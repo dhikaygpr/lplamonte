@@ -20,7 +20,7 @@ export default function Hero() {
               Jadilah Bagian dari <span className="text-gradient">Ekosistem Bisnis</span> Fashion Anak Terbesar
             </h1>
             <p className="reveal delay-200 text-gray-500 text-lg leading-relaxed mb-8 max-w-lg">
-              Sistem distributor berteritori eksklusif. Produk baju anak Muslim premium.
+              Sistem distributor berteritori eksklusif. Produk baju anak premium.
               Modal mulai <strong className="text-lamonte-dark">Rp 650.000</strong>.
               Omzet rata-rata mitra aktif hingga <strong className="text-lamonte-green">Rp 80 Juta/bulan</strong>.
             </p>
@@ -65,7 +65,7 @@ export default function Hero() {
           <div className="reveal-right relative hidden lg:block" style={{height:'580px'}}>
             {/* Main */}
             <div className="absolute right-0 top-0 w-[60%] rounded-3xl overflow-hidden shadow-2xl shadow-lamonte-green/15" style={{height:'380px'}}>
-              <img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=600&h=760&fit=crop&q=80" alt="anak baju muslim" className="w-full h-full object-cover" />
+              <img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=600&h=760&fit=crop&q=80" alt="anak baju" className="w-full h-full object-cover" />
               <div className="absolute inset-0 bg-gradient-to-t from-lamonte-dark/40 via-transparent to-transparent" />
               <div className="absolute bottom-4 left-4 right-4 bg-white/90 backdrop-blur rounded-2xl px-4 py-3 flex items-center gap-2">
                 <div className="flex gap-0.5">{[1,2,3,4,5].map(i=><svg key={i} className="w-3.5 h-3.5 text-lamonte-gold" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>)}</div>

@@ -31,7 +31,7 @@ const faqs = [
   },
   {
     q: 'Produk apa saja yang tersedia di Lamonte?',
-    a: 'Lamonte spesialisasi di baju anak Muslim (syari) berkualitas premium dengan 200+ model yang diperbarui setiap bulan. Semua produk sudah melalui quality control ketat sebelum dikirim ke mitra.',
+    a: 'Lamonte spesialisasi di baju anak berkualitas premium dengan 200+ model yang diperbarui setiap bulan. Semua produk sudah melalui quality control ketat sebelum dikirim ke mitra.',
   },
 ]
 
