@@ -3,49 +3,41 @@ const compareItems = [
     aspect: 'Modal Awal',
     withoutLamonte: 'Ratusan juta untuk brand sendiri',
     withLamonte: 'Mulai Rp 650.000',
-    icon: '💸',
   },
   {
     aspect: 'Produksi',
     withoutLamonte: 'Harus urus sendiri, berisiko',
     withLamonte: 'Sudah tersedia, ready stock',
-    icon: '📦',
   },
   {
     aspect: 'Foto Produk',
     withoutLamonte: 'Biaya foto jutaan rupiah',
     withLamonte: 'Konten profesional gratis',
-    icon: '📸',
   },
   {
     aspect: 'Wilayah Jualan',
     withoutLamonte: 'Bebas, tapi bersaing ketat',
     withLamonte: 'Hak eksklusif per wilayah',
-    icon: '🗺️',
   },
   {
     aspect: 'Sistem Marketing',
     withoutLamonte: 'Buat sendiri dari nol',
     withLamonte: 'Sistem otomatis tersedia',
-    icon: '📣',
   },
   {
     aspect: 'Mentoring',
     withoutLamonte: 'Tidak ada support',
     withLamonte: 'Mentoring zoom rutin + WA group',
-    icon: '🎓',
   },
   {
     aspect: 'Update Produk',
     withoutLamonte: 'Desain sendiri, mahal',
     withLamonte: 'Koleksi baru tiap bulan',
-    icon: '✨',
   },
   {
     aspect: 'Risiko',
     withoutLamonte: 'Tinggi, produk bisa menumpuk',
     withLamonte: 'Rendah, stok terkelola',
-    icon: '🛡️',
   },
 ]
 
