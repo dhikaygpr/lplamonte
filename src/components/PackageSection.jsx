@@ -89,7 +89,7 @@ const modules = [
   { icon: '🤖', title: 'WA Automation', desc: 'Auto reply & broadcast sistem' },
   { icon: '📅', title: 'Content Calendar', desc: 'Jadwal konten harian sudah ada' },
   { icon: '🎓', title: 'Zoom Mentoring', desc: 'Live class bersama tim expert' },
-  { icon: '📦', title: 'Stock Manager', desc: 'Monitor stok real-time' },
+  { icon: '📦', title: 'Stock Manager', desc: 'Monitor stok realtime' },
 ]
 
 export default function PackageSection() {
