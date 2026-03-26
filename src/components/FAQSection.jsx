@@ -23,7 +23,7 @@ const faqs = [
   },
   {
     q: 'Apakah ada target penjualan yang harus dipenuhi?',
-    a: 'Tidak ada target penjualan wajib untuk level Reseller dan Agen. Untuk level Mini HQ, ada kesepakatan minimum order untuk mempertahankan mandat wilayah — tim kami akan diskusikan detailnya.',
+    a: 'Tidak ada target penjualan wajib untuk level Reseller dan Agen. Untuk level Mini HQ, ada kesepakatan minimum order untuk mempertahankan mandat wilayah, tim kami akan diskusikan detailnya.',
   },
   {
     q: 'Bisakah saya upgrade paket di kemudian hari?',
