@@ -1,7 +1,7 @@
 const urgencyItems = [
   { icon: '⏳', text: 'Slot distributor 2026 terbatas per provinsi' },
   { icon: '🗺️', text: 'Hak wilayah eksklusif — First Come First Served' },
-  { icon: '🔥', text: 'Koleksi terbaru sudah siap — jangan ketinggalan' },
+  { icon: '🔥', text: 'Koleksi terbaru sudah siap, jangan ketinggalan' },
 ]
 
 const formSteps = [
