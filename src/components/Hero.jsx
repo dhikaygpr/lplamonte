@@ -57,7 +57,6 @@ export default function Hero() {
                   />
                 ))}
               </div>
-              <p className="text-sm text-gray-500"><span className="font-semibold text-lamonte-dark">10.000+ mitra</span> telah bergabung</p>
             </div>
           </div>
 
