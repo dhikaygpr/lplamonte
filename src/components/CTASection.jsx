@@ -66,7 +66,7 @@ export default function CTASection() {
         {/* CTA Buttons */}
         <div className="reveal delay-300 flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
           <a
-            href="https://wa.me/6281234567890?text=Halo+Lamonte!+Saya+tertarik+menjadi+distributor.+Bisa+jelaskan+lebih+lanjut%3F"
+            href="https://wa.me/6285933219962?text=Halo+Lamonte!+Saya+tertarik+menjadi+distributor.+Bisa+jelaskan+lebih+lanjut%3F"
             target="_blank"
             rel="noopener noreferrer"
             className="cta-pulse flex items-center gap-3 bg-lamonte-green text-white px-10 py-5 rounded-2xl font-black text-base hover:bg-lamonte-green-light transition-all duration-200 shadow-2xl shadow-lamonte-green/30 w-full sm:w-auto justify-center"
