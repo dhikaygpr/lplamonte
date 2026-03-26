@@ -4,12 +4,12 @@ const brands = [
 ]
 
 const stats = [
-  { number: '10.000+', label: 'Mitra Aktif', icon: '👥' },
-  { number: '34', label: 'Provinsi', icon: '🗺️' },
-  { number: 'Rp 80 Jt', label: 'Omzet Tertinggi/Bulan', icon: '💰' },
-  { number: '>15', label: 'Tahun Berdiri', icon: '🏆' },
-  { number: '98%', label: 'Kepuasan Mitra', icon: '⭐' },
-  { number: '200+', label: 'Model Tersedia', icon: '👗' },
+  { number: '10.000+', label: 'Mitra Aktif' },
+  { number: '34', label: 'Provinsi' },
+  { number: 'Rp 80 Jt', label: 'Omzet Tertinggi/Bulan' },
+  { number: '>15', label: 'Tahun Berdiri' },
+  { number: '98%', label: 'Kepuasan Mitra' },
+  { number: '200+', label: 'Model Tersedia' },
 ]
 
 export default function SocialProof() {
