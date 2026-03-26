@@ -7,7 +7,7 @@ const stats = [
   { number: '10.000+', label: 'Mitra Aktif', icon: '👥' },
   { number: '34', label: 'Provinsi', icon: '🗺️' },
   { number: 'Rp 80 Jt', label: 'Omzet Tertinggi/Bulan', icon: '💰' },
-  { number: '5+', label: 'Tahun Berdiri', icon: '🏆' },
+  { number: '15+', label: 'Tahun Berdiri', icon: '🏆' },
   { number: '98%', label: 'Kepuasan Mitra', icon: '⭐' },
   { number: '200+', label: 'Model Tersedia', icon: '👗' },
 ]
