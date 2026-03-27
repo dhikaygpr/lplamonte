@@ -24,7 +24,7 @@ const packages = [
     pieces: '150 pcs',
     target: 'Rp 15-30 Jt/bln',
     color: 'border-lamonte-green',
-    badge: '🔥 Terpopuler',
+    badge: 'Terpopuler',
     badgeBg: 'bg-lamonte-green',
     features: [
       '150 pcs mix koleksi terbaru',
@@ -44,7 +44,7 @@ const packages = [
     pieces: '550 pcs',
     target: 'Rp 50-80 Jt/bln',
     color: 'border-lamonte-gold',
-    badge: '👑 Elite',
+    badge: 'Elite',
     badgeBg: 'bg-gradient-to-r from-lamonte-gold to-amber-400',
     features: [
       '550 pcs premium all-variant',
@@ -66,7 +66,7 @@ const packages = [
     pieces: '1000+ pcs',
     target: 'Rp 100 Jt+/bln',
     color: 'border-gray-800',
-    badge: '🌟 Khusus',
+    badge: 'Khusus',
     badgeBg: 'bg-lamonte-dark',
     features: [
       'Semua fitur Mini HQ',
