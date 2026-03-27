@@ -99,10 +99,10 @@ export default function CompareSection() {
           <div className="grid grid-cols-3 bg-lamonte-dark text-white">
             <div className="p-5 text-sm font-semibold text-white/60">Aspek</div>
             <div className="p-5 text-center border-l border-white/10">
-              <div className="text-sm font-bold text-red-400">❌ Bisnis Sendiri</div>
+              <div className="text-sm font-bold text-red-400">Bisnis Sendiri</div>
             </div>
             <div className="p-5 text-center border-l border-white/10 bg-lamonte-green">
-              <div className="text-sm font-bold">✅ Mitra Lamonte</div>
+              <div className="text-sm font-bold">Mitra Lamonte</div>
             </div>
           </div>
 
