@@ -45,7 +45,7 @@ export default function SocialProof() {
             <div className="aspect-video rounded-3xl overflow-hidden shadow-2xl border-4 border-white">
               <iframe 
                 className="w-full h-full" 
-                src="https://www.youtube.com/embed/Jq3KOuZBluM&themeRefresh=1" 
+                src="https://www.youtube.com/embed/w0KRcQKSYYo" 
                 title="Review Produk" 
                 frameBorder="0" 
                 allowFullScreen
